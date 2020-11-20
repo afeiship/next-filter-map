@@ -3,7 +3,7 @@
  * description: Filter after map for next use reduce.
  * homepage: https://github.com/afeiship/next-filter-map
  * version: 1.0.0
- * date: 2020-11-20 13:54:24
+ * date: 2020-11-20 13:57:20
  * license: MIT
  */
 
