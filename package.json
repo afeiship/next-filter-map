@@ -1,6 +1,6 @@
 {
   "name": "@jswork/next-filter-map",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Filter after map for next use reduce.",
   "homepage": "https://js.work",
   "author": {
@@ -43,5 +43,11 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
-  }
+  },
+  "keywords": [
+    "next",
+    "filter",
+    "map",
+    "reduce"
+  ]
 }
