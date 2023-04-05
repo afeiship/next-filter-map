@@ -24,7 +24,7 @@ const options = [
 const reduced = nx.filterMap(
   options,
   (item) => {
-    return [{ name: item.name }, item.assigned];
+    return [item.assigned, { name: item.name }];
   }
 );
 
